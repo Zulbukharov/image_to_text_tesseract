@@ -1,0 +1,2 @@
+remote: warning: File venv/lib/python2.7/site-packages/cv2/cv2.so is 69.47 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File venv/lib/python2.7/site-packages/numpy/.dylibs/libopenblasp-r0.3.0.dev.dylib is 93.33 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
